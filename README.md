@@ -5,11 +5,19 @@ This is a project to learn how to use Django.
 The Django Tutorial by The Net Ninja is followed. [Link.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
 
 ## Getting Started
+This project has been run on a Macbook Pro 2017 with MacOS Mojave 10.14.3.
 
+To run the server simply direct to the top folder:
+```
+cd ~/django_projects/
+```
 
+And then run the server:
+```
+python manage.py runserver
+``` 
 
 ### Prerequisites
-
 
 ```
 Python 3.6
@@ -19,27 +27,19 @@ Python 3.6
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Make sure you have Python 3.6 installed.
 
 ```
 Python 3.6
+```
+```
 Virtualenv
+```
+
 Django 1.11
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -49,10 +49,6 @@ Add additional notes about how to deploy this on a live system
 
 * [Python 3.6](https://www.python.org/) - The programming language
 * [Django 1.11](https://www.djangoproject.com/) - The Web framework for perfectionists with deadlines
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 

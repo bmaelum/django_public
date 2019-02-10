@@ -15,7 +15,7 @@ cd ~/django_projects/
 And then run the server:
 ```
 python manage.py runserver
-``` 
+```
 
 ### Prerequisites
 
@@ -31,11 +31,7 @@ Make sure you have Python 3.6 installed.
 
 ```
 Python 3.6
-```
-```
 Virtualenv
-```
-
 Django 1.11
 ```
 

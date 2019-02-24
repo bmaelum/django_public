@@ -1,9 +1,8 @@
-@# Django project
+# Django project
 
 This is a project to learn how to use Django.
 
 The Django Tutorial by The Net Ninja is followed. [Link.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
-
 [Course Files.](https://github.com/iamshaunjp/django-playlist)
 
 ## Getting Started

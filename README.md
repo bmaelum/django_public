@@ -7,11 +7,7 @@ The Django Tutorial by The Net Ninja is followed. [Link.](https://www.youtube.co
 
 
 ### Prerequisites
-This project has been run on a Macbook Pro 2017 with MacOS Mojave 10.14.3.
-
-```
-Python 3.6
-```
+This project has been developed and run on a Macbook Pro 2017 with MacOS Mojave 10.14.3.
 
 
 ## Getting Started
@@ -27,31 +23,13 @@ source activate
 
 To run the server simply direct to the top folder:
 ```
-cd ~/django_projects/
+cd ~/blog/django_projects/
 ```
 And then run the server:
 ```
 python manage.py runserver
 ```
 The website can be found at **localhost:8000** in your preferred browser.
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Make sure you have Python 3.6 installed.
-
-```
-Python 3.6
-Virtualenv
-Django 1.11
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -67,3 +45,4 @@ Add additional notes about how to deploy this on a live system
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
+* **Shaun** - *Creator of tutorial* - [iamshaunjp](https://github.com/iamshaunjp)

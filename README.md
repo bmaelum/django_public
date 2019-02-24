@@ -5,24 +5,35 @@ This is a project to learn how to use Django.
 The Django Tutorial by The Net Ninja is followed. [Link.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
 [Course Files.](https://github.com/iamshaunjp/django-playlist)
 
-## Getting Started
+
+### Prerequisites
 This project has been run on a Macbook Pro 2017 with MacOS Mojave 10.14.3.
+
+```
+Python 3.6
+```
+
+
+## Getting Started
+Install all files from the requirements.txt:
+```
+pip install -r requirements.txt
+```
+To enter the virtual environment direct to the bin folder and run the source command:
+```
+cd ~/blog/djangoEnv/bin/
+source activate
+```
 
 To run the server simply direct to the top folder:
 ```
 cd ~/django_projects/
 ```
-
 And then run the server:
 ```
 python manage.py runserver
 ```
-
-### Prerequisites
-
-```
-Python 3.6
-```
+The website can be found at **localhost:8000** in your preferred browser.
 
 ### Installing
 

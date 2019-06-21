@@ -11,14 +11,16 @@ This project has been developed and run on a Macbook Pro 2017 with MacOS Mojave 
 
 
 ## Getting Started
-Install all files from the requirements.txt:
-```
-pip install -r requirements.txt
-```
+
 To enter the virtual environment direct to the bin folder and run the source command:
 ```
 cd ~/blog/djangoEnv/bin/
 source activate
+```
+
+Install all files from the requirements.txt:
+```
+pip install -r requirements.txt
 ```
 
 To run the server simply direct to the top folder:
